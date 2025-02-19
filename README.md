@@ -1,6 +1,4 @@
 # Hotelcatz.github.io
-mkdir css js images
-touch index.html about.html gallery.html booking.html blog.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -178,32 +176,3 @@ touch index.html about.html gallery.html booking.html blog.html
     </footer>
 </body>
 </html>
-
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 1em 0;
-    text-align: center;
-}
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-nav ul li {
-    display: inline;
-    margin: 0 10px;
-}
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
-main {
-    padding: 2em;
-}
-footer {
